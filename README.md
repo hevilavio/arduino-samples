@@ -1,2 +1,2 @@
 # arduino-samples
-Some samples of C code for Arduino.
+Some tricks of code in Arduino.
